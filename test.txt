@@ -4,6 +4,10 @@ regel 3
 regel 4
 regel 5
 regel 6
+<<<<<<< HEAD
 regel 8
 regel 9
+=======
+regel 7
+>>>>>>> d60e50378da072bae11e53bf7949cc0eba92b612
 28/04/2021
